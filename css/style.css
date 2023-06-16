@@ -1160,6 +1160,9 @@ footer .mainFooter .endPage p {
   .detailContent .detailItem .detaitTitle .addToCart button:hover {
     background-color: rgb(25, 25, 180);
   }
+  .container form .register {
+    width: 50%;
+  }
 }
 .container {
   perspective: 1000px;

@@ -17,9 +17,6 @@ function getDataCarousel() {
     console.log(err);
   });
 
-
-
-
 }
 getDataCarousel();
 
